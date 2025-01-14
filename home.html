@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopingo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <nav class="nav-bar">
+        <a href="#" class="logo"> <span class="logo">Shopingo</span></a>
+        <ul class="links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Shoping</a></li>
+          <li><a href="#">Orders</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact Us</a></li>
+          <li>
+            <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+          </li>
+        </ul>
+
+        <button class="log-btn">Login</button>
+        <div id="add-user-nav" class="name-user">
+          
+        </div>
+      </nav>
+    </header>
+
+    <div class="blurred-background"></div>
+    <!-- login form -->
+    <div class="form-popup log-in">
+      <span
+        ><a href="#"><i class="close-btn fa-solid fa-xmark"></i></a
+      ></span>
+      <div class="form-details log-in">
+        <h2>Welcome Back</h2>
+        <p>
+          Please login using your personal information to stay connected with us
+        </p>
+      </div>
+      <div class="form-box log-in">
+        <h2>Login</h2>
+        <form action="#" onsubmit="submitLoginfun(event)">
+          <div class="input-field">
+            <label for="" class="label">Email</label>
+            <input type="text" placeholder="Email" id="emailLgin" />
+            <span id="emailError"></span>
+          </div>
+          <div class="input-field">
+            <label for="" class="label">Password</label>
+            <input type="password" placeholder="Password" id="passLogin" />
+            <span id="passError"></span>
+          </div>
+          <button class="login-btn" type="submit" id="submitLogin">
+            Log In
+          </button>
+          <span id="submitError"></span>
+        </form>
+        <div class="sign-up">
+          <p>
+            Donnot have an account ? <a href="" id="signup-link">Sign Up</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- regester form -->
+    <div class="form-popup-sign-up">
+      <span
+        ><a href="#"><i class="close-btn fa-solid fa-xmark"></i></a
+      ></span>
+      <div class="form-details-signup">
+        <h2>Create account</h2>
+        <p>
+          Please signup using your personal information to stay connected with
+          us
+        </p>
+      </div>
+      <div class="form-boxssignup">
+        <h2>SIGNUP</h2>
+        <form action="#">
+          <div class="input-field-signup">
+            <label for="" class="label">User Name</label>
+            <input type="text" placeholder="user name" />
+          </div>
+          <div class="input-field-signup">
+            <label for="" class="label">Email</label>
+            <input type="text" placeholder="Email" />
+          </div>
+          <div class="input-field-signup">
+            <label for="" class="label">Password</label>
+            <input type="password" placeholder="Password" />
+          </div>
+          <div class="input-field-signup">
+            <label for="" class="label">Image</label>
+            <input type="file" id="img-inp" />
+          </div>
+          <button class="login-btn" type="submit">Sign Up</button>
+        </form>
+        <div class="sign-up">
+          <p>
+            Already have an account ?
+            <a href="" id="signup-login-link">logen</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <script
+      src="https://kit.fontawesome.com/3597cc1bad.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="script.js"></script>
+  </body>
+</html>

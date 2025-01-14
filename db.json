@@ -1,0 +1,1162 @@
+{
+  "products": [
+    {
+      "id": 28,
+      "title": "Sleek Modern Leather Sofa",
+      "price": 53,
+      "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+      "images": [
+        "[\"https://i.imgur.com/Qphac99.jpeg\"",
+        "\"https://i.imgur.com/dJjpEgG.jpeg\"",
+        "\"https://i.imgur.com/MxJyADq.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T13:39:51.000Z",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 32,
+      "title": "Elegant Solid Wood Dining Table",
+      "price": 67,
+      "description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
+      "images": [
+        "https://i.imgur.com/4lTaHfF.jpeg",
+        "https://i.imgur.com/JktHE1C.jpeg",
+        "https://i.imgur.com/cQeXQMi.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 33,
+      "title": "Modern Minimalist Workstation Setup",
+      "price": 49,
+      "description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
+      "images": [
+        "https://i.imgur.com/3oXNBst.jpeg",
+        "https://i.imgur.com/ErYYZnT.jpeg",
+        "https://i.imgur.com/boBPwYW.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Modern Ergonomic Office Chair",
+      "price": 70,
+      "description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
+      "images": [
+        "[\"https://i.imgur.com/3dU0m72.jpeg\"",
+        "\"https://i.imgur.com/zPU3EVa.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T12:10:13.000Z",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 36,
+      "title": "Rainbow Glitter High Heels",
+      "price": 39,
+      "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+      "images": [
+        "[\"https://i.imgur.com/62gGzeF.jpeg\"",
+        "\"https://i.imgur.com/5MoPuFM.jpeg\"",
+        "\"https://i.imgur.com/sUVj7pK.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T13:40:57.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Chic Summer Denim Espadrille Sandals",
+      "price": 33,
+      "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
+      "images": [
+        "https://i.imgur.com/9qrmE1b.jpeg",
+        "https://i.imgur.com/wqKxBVH.jpeg",
+        "https://i.imgur.com/sWSV6DK.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+      "price": 27,
+      "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
+      "images": [
+        "https://i.imgur.com/hKcMNJs.jpeg",
+        "https://i.imgur.com/NYToymX.jpeg",
+        "https://i.imgur.com/HiiapCt.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 39,
+      "title": "Vibrant Pink Classic Sneakers",
+      "price": 84,
+      "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+      "images": [
+        "https://i.imgur.com/mcW42Gi.jpeg",
+        "https://i.imgur.com/mhn7qsF.jpeg",
+        "https://i.imgur.com/F8vhnFJ.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 40,
+      "title": "Futuristic Silver and Gold High-Top Sneaker",
+      "price": 68,
+      "description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
+      "images": [
+        "https://i.imgur.com/npLfCGq.jpeg",
+        "https://i.imgur.com/vYim3gj.jpeg",
+        "https://i.imgur.com/HxuHwBO.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 41,
+      "title": "Futuristic Chic High-Heel Boots",
+      "price": 36,
+      "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
+      "images": [
+        "https://i.imgur.com/HqYqLnW.jpeg",
+        "https://i.imgur.com/RlDGnZw.jpeg",
+        "https://i.imgur.com/qa0O6fg.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 42,
+      "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+      "price": 53,
+      "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+      "images": [
+        "https://i.imgur.com/AzAY4Ed.jpeg",
+        "https://i.imgur.com/umfnS9P.jpeg",
+        "https://i.imgur.com/uFyuvLg.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Elegant Purple Leather Loafers",
+      "price": 17,
+      "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
+      "images": [
+        "https://i.imgur.com/Au8J9sX.jpeg",
+        "https://i.imgur.com/gdr8BW2.jpeg",
+        "https://i.imgur.com/KDCZxnJ.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 44,
+      "title": "Classic Blue Suede Casual Shoes",
+      "price": 39,
+      "description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
+      "images": [
+        "https://i.imgur.com/sC0ztOB.jpeg",
+        "https://i.imgur.com/Jf9DL9R.jpeg",
+        "https://i.imgur.com/R1IN95T.jpeg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 45,
+      "title": "Sleek Futuristic Electric Bicycle",
+      "price": 22,
+      "description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
+      "images": [
+        "https://i.imgur.com/BG8J0Fj.jpg",
+        "https://i.imgur.com/ujHBpCX.jpg",
+        "https://i.imgur.com/WHeVL9H.jpg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 5,
+        "name": "Miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 46,
+      "title": "Sleek All-Terrain Go-Kart",
+      "price": 37,
+      "description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
+      "images": [
+        "https://i.imgur.com/Ex5x3IU.jpg",
+        "https://i.imgur.com/z7wAQwe.jpg",
+        "https://i.imgur.com/kc0Dj9S.jpg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 5,
+        "name": "Miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 47,
+      "title": "Radiant Citrus Eau de Parfum",
+      "price": 73,
+      "description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
+      "images": [
+        "https://i.imgur.com/xPDwUb3.jpg",
+        "https://i.imgur.com/3rfp691.jpg",
+        "https://i.imgur.com/kG05a29.jpg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 5,
+        "name": "Miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 51,
+      "title": "Elegant Glass Tumbler Set",
+      "price": 50,
+      "description": "Enhance your drinkware collection with our sophisticated set of glass tumblers, perfect for serving your favorite beverages. This versatile set includes both clear and subtly tinted glasses, lending a modern touch to any table setting. Crafted with quality materials, these durable tumblers are designed to withstand daily use while maintaining their elegant appeal.",
+      "images": [
+        "https://i.imgur.com/TF0pXdL.jpg",
+        "https://i.imgur.com/BLDByXP.jpg",
+        "https://i.imgur.com/b7trwCv.jpg"
+      ],
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z",
+      "category": {
+        "id": 5,
+        "name": "Miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 303,
+      "title": "Кросы",
+      "price": 25,
+      "description": "Хохохо",
+      "images": [
+        "[\"https://caprice-russia.ru/assets/images/blog/2%20%D0%BD%D1%83%D0%B1%D1%83%D0%BA.jpg\"]"
+      ],
+      "creationAt": "2025-01-07T11:26:34.000Z",
+      "updatedAt": "2025-01-07T11:26:34.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 304,
+      "title": "New Product",
+      "price": 10,
+      "description": "A description",
+      "images": ["[\"https://placeimg.com/640/480/any\"]"],
+      "creationAt": "2025-01-07T11:35:12.000Z",
+      "updatedAt": "2025-01-07T11:35:12.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 308,
+      "title": "hhdhdh",
+      "price": 15000000,
+      "description": "beautifull",
+      "images": ["[\"https://i.imgur.com/qNOjJje.jpeg\"]"],
+      "creationAt": "2025-01-07T11:55:20.000Z",
+      "updatedAt": "2025-01-07T11:55:20.000Z",
+      "category": {
+        "id": 15,
+        "name": "Testing Category",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2025-01-07T04:01:07.000Z",
+        "updatedAt": "2025-01-07T04:01:07.000Z"
+      }
+    },
+    {
+      "id": 317,
+      "title": "New1",
+      "price": 20,
+      "description": "New1",
+      "images": [
+        "[\"https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=600\"",
+        "\"https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=600\"]"
+      ],
+      "creationAt": "2025-01-07T12:32:52.000Z",
+      "updatedAt": "2025-01-07T13:14:20.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 319,
+      "title": "LazyShop product 2",
+      "price": 28,
+      "description": "Created product for api testing when some dumb deleted all products.",
+      "images": [
+        "[\"https://i.imgur.com/SolkFEB.jpeg\"",
+        "\"https://i.imgur.com/KIGW49u.jpeg\"",
+        "\"https://i.imgur.com/mWwek7p.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T12:52:58.000Z",
+      "updatedAt": "2025-01-07T12:52:58.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 324,
+      "title": "LazyShop product 1",
+      "price": 68,
+      "description": "Created product for api testing when some dumb deleted all products",
+      "images": [
+        "[\"https://i.imgur.com/npLfCGq.jpeg\"",
+        "\"https://i.imgur.com/vYim3gj.jpeg\"",
+        "\"https://i.imgur.com/HxuHwBO.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T13:43:26.000Z",
+      "updatedAt": "2025-01-07T13:43:26.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    },
+    {
+      "id": 325,
+      "title": "LazyShop product 2",
+      "price": 28,
+      "description": "Created product for api testing when some dumb deleted all products.",
+      "images": [
+        "[\"https://i.imgur.com/SolkFEB.jpeg\"",
+        "\"https://i.imgur.com/KIGW49u.jpeg\"",
+        "\"https://i.imgur.com/mWwek7p.jpeg\"]"
+      ],
+      "creationAt": "2025-01-07T13:43:41.000Z",
+      "updatedAt": "2025-01-07T13:43:41.000Z",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-01-07T00:43:13.000Z",
+      "updatedAt": "2025-01-07T00:43:13.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T01:03:59.000Z",
+      "updatedAt": "2025-01-07T01:03:59.000Z"
+    },
+    {
+      "id": 7,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T02:01:31.000Z",
+      "updatedAt": "2025-01-07T02:01:31.000Z"
+    },
+    {
+      "id": 8,
+      "name": "gfhjgf",
+      "image": "https://www.google.com/imgres?q=imagen&imgurl=https%3A%2F%2Fes.digitaltrends.com%2Fwp-content%2Fuploads%2F2023%2F12%2Fgoogle-chrome.jpeg%3Fresize%3D1000%252C600%26p%3D1&imgrefurl=https%3A%2F%2Fes.digitaltrends.com%2Fcomputadoras%2Fcomo-cambiar-imagen-fondo-google%2F&docid=yvb6Eu4o6SA27M&tbnid=Pwccd0J69AmUAM&vet=12ahUKEwiRgpv-yeKKAxXzLLkGHbvVKwEQM3oECBcQAA..i&w=1000&h=600&hcb=2&ved=2ahUKEwiRgpv-yeKKAxXzLLkGHbvVKwEQM3oECBcQAA",
+      "creationAt": "2025-01-07T02:37:33.000Z",
+      "updatedAt": "2025-01-07T02:37:33.000Z"
+    },
+    {
+      "id": 9,
+      "name": "ghjfg",
+      "image": "https://www.google.com/imgres?q=imagen&imgurl=https%3A%2F%2Fes.digitaltrends.com%2Fwp-content%2Fuploads%2F2023%2F12%2Fgoogle-chrome.jpeg%3Fresize%3D1000%252C600%26p%3D1&imgrefurl=https%3A%2F%2Fes.digitaltrends.com%2Fcomputadoras%2Fcomo-cambiar-imagen-fondo-google%2F&docid=yvb6Eu4o6SA27M&tbnid=Pwccd0J69AmUAM&vet=12ahUKEwiRgpv-yeKKAxXzLLkGHbvVKwEQM3oECBcQAA..i&w=1000&h=600&hcb=2&ved=2ahUKEwiRgpv-yeKKAxXzLLkGHbvVKwEQM3oECBcQAA",
+      "creationAt": "2025-01-07T02:37:40.000Z",
+      "updatedAt": "2025-01-07T02:37:40.000Z"
+    },
+    {
+      "id": 10,
+      "name": "partial",
+      "image": "asdasd.com",
+      "creationAt": "2025-01-07T02:43:49.000Z",
+      "updatedAt": "2025-01-07T02:43:49.000Z"
+    },
+    {
+      "id": 11,
+      "name": "asdas",
+      "image": "asdasd.com",
+      "creationAt": "2025-01-07T02:48:58.000Z",
+      "updatedAt": "2025-01-07T02:48:58.000Z"
+    },
+    {
+      "id": 12,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T03:01:46.000Z",
+      "updatedAt": "2025-01-07T03:01:46.000Z"
+    },
+    {
+      "id": 13,
+      "name": "asd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/category.png?alt=media&token=d9168a1c-5049-41b9-bafc-e8b4b3ee309a",
+      "creationAt": "2025-01-07T03:26:55.000Z",
+      "updatedAt": "2025-01-07T03:26:55.000Z"
+    },
+    {
+      "id": 14,
+      "name": "asdasd|12222",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/category.png?alt=media&token=9afa78a8-33a0-4f98-95b9-eefa54c274e7",
+      "creationAt": "2025-01-07T03:27:12.000Z",
+      "updatedAt": "2025-01-07T03:27:12.000Z"
+    },
+    {
+      "id": 15,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T04:01:07.000Z",
+      "updatedAt": "2025-01-07T04:01:07.000Z"
+    },
+    {
+      "id": 16,
+      "name": "Books",
+      "image": "https://api.lorem.space/image/book?w=150&h=220",
+      "creationAt": "2025-01-07T04:42:08.000Z",
+      "updatedAt": "2025-01-07T04:42:08.000Z"
+    },
+    {
+      "id": 17,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T05:04:03.000Z",
+      "updatedAt": "2025-01-07T05:04:03.000Z"
+    },
+    {
+      "id": 18,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T06:06:01.000Z",
+      "updatedAt": "2025-01-07T06:06:01.000Z"
+    },
+    {
+      "id": 19,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T06:06:10.000Z",
+      "updatedAt": "2025-01-07T06:06:10.000Z"
+    },
+    {
+      "id": 20,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T07:01:11.000Z",
+      "updatedAt": "2025-01-07T07:01:11.000Z"
+    },
+    {
+      "id": 22,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T08:05:44.000Z",
+      "updatedAt": "2025-01-07T08:05:44.000Z"
+    },
+    {
+      "id": 23,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T09:03:06.000Z",
+      "updatedAt": "2025-01-07T09:03:06.000Z"
+    },
+    {
+      "id": 24,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T10:01:49.000Z",
+      "updatedAt": "2025-01-07T10:01:49.000Z"
+    },
+    {
+      "id": 25,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T11:01:56.000Z",
+      "updatedAt": "2025-01-07T11:01:56.000Z"
+    },
+    {
+      "id": 26,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T12:01:54.000Z",
+      "updatedAt": "2025-01-07T12:01:54.000Z"
+    },
+    {
+      "id": 27,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T13:00:12.000Z",
+      "updatedAt": "2025-01-07T13:00:12.000Z"
+    },
+    {
+      "id": 28,
+      "name": "LS category 15:26:57",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:26:58.000Z",
+      "updatedAt": "2025-01-07T13:26:58.000Z"
+    },
+    {
+      "id": 29,
+      "name": "LS category 15:27:22",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:27:22.000Z",
+      "updatedAt": "2025-01-07T13:27:22.000Z"
+    },
+    {
+      "id": 30,
+      "name": "LS category 15:30:41",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:30:42.000Z",
+      "updatedAt": "2025-01-07T13:30:42.000Z"
+    },
+    {
+      "id": 31,
+      "name": "LS category 15:31:07",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:31:07.000Z",
+      "updatedAt": "2025-01-07T13:31:07.000Z"
+    },
+    {
+      "id": 32,
+      "name": "LS category 15:36:38",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:36:39.000Z",
+      "updatedAt": "2025-01-07T13:36:39.000Z"
+    },
+    {
+      "id": 33,
+      "name": "LS category 15:38:17",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:38:18.000Z",
+      "updatedAt": "2025-01-07T13:38:18.000Z"
+    },
+    {
+      "id": 34,
+      "name": "LS category 15:39:43",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:39:43.000Z",
+      "updatedAt": "2025-01-07T13:39:43.000Z"
+    },
+    {
+      "id": 35,
+      "name": "LS category 15:40:06",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:40:06.000Z",
+      "updatedAt": "2025-01-07T13:40:06.000Z"
+    },
+    {
+      "id": 36,
+      "name": "LS category 15:42:23",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:42:24.000Z",
+      "updatedAt": "2025-01-07T13:42:24.000Z"
+    },
+    {
+      "id": 37,
+      "name": "LS category 15:50:45",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T13:50:45.000Z",
+      "updatedAt": "2025-01-07T13:50:45.000Z"
+    },
+    {
+      "id": 38,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2025-01-07T14:01:19.000Z",
+      "updatedAt": "2025-01-07T14:01:19.000Z"
+    },
+    {
+      "id": 39,
+      "name": "LS category 16:07:51",
+      "image": "https://picsum.photos/640/640",
+      "creationAt": "2025-01-07T14:07:52.000Z",
+      "updatedAt": "2025-01-07T14:07:52.000Z"
+    }
+  ],
+  "users": [
+    {
+        "id": 1,
+        "email": "john@mail.com",
+        "password": "changeme",
+        "name": "Jhon",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+        },
+        {
+        "id": 2,
+        "email": "maria@mail.com",
+        "password": "12345",
+        "name": "Maria",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/DTfowdu.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+        },
+        {
+        "id": 3,
+        "email": "admin@mail.com",
+        "password": "admin123",
+        "name": "Admin",
+        "role": "admin",
+        "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+        "creationAt": "2025-01-07T00:43:13.000Z",
+        "updatedAt": "2025-01-07T00:43:13.000Z"
+        },
+        {
+        "id": 4,
+        "email": "hi@gmail.com",
+        "password": "57687gjh",
+        "name": "Sheela",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T00:59:58.000Z",
+        "updatedAt": "2025-01-07T12:09:11.000Z"
+        },
+        {
+        "id": 5,
+        "email": "john.doe@example.com",
+        "password": "securepassword123",
+        "name": "John Doe",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T01:00:11.000Z",
+        "updatedAt": "2025-01-07T01:00:11.000Z"
+        },
+        {
+        "id": 7,
+        "email": "sandra@example.com",
+        "password": "holahola12345",
+        "name": "Juan Pérez",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T01:00:51.000Z",
+        "updatedAt": "2025-01-07T01:05:59.000Z"
+        },
+        {
+        "id": 9,
+        "email": "abc@gmail.com",
+        "password": "67yb",
+        "name": "Sheela",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T03:27:35.000Z",
+        "updatedAt": "2025-01-07T03:27:35.000Z"
+        },
+        {
+        "id": 10,
+        "email": "abc@gmail.com",
+        "password": "67yb",
+        "name": "Prakash",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T03:28:09.000Z",
+        "updatedAt": "2025-01-07T03:28:09.000Z"
+        },
+        {
+        "id": 12,
+        "email": "abc@gmail.com",
+        "password": "67yb",
+        "name": "Prakash",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T03:28:10.000Z",
+        "updatedAt": "2025-01-07T03:28:10.000Z"
+        },
+        {
+        "id": 13,
+        "email": "abc@gmail.com",
+        "password": "67yb",
+        "name": "Prakash",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T03:28:11.000Z",
+        "updatedAt": "2025-01-07T03:28:11.000Z"
+        },
+        {
+        "id": 14,
+        "email": "joao@joao.com",
+        "password": "1234",
+        "name": "João Salg",
+        "role": "admin",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T03:34:20.000Z",
+        "updatedAt": "2025-01-07T03:34:20.000Z"
+        },
+        {
+        "id": 15,
+        "email": "prakash@gmail.com",
+        "password": "67yb",
+        "name": "Sheela",
+        "role": "customer",
+        "avatar": "https://i.pravatar.cc",
+        "creationAt": "2025-01-07T03:35:24.000Z",
+        "updatedAt": "2025-01-07T04:05:13.000Z"
+        },
+        {
+        "id": 17,
+        "email": "vishal@gmail.com",
+        "password": "123456",
+        "name": "Vishal Dubey",
+        "role": "customer",
+        "avatar": "https://picsum.photos/800",
+        "creationAt": "2025-01-07T05:01:13.000Z",
+        "updatedAt": "2025-01-07T05:01:13.000Z"
+        },
+        {
+        "id": 18,
+        "email": "nico@gmail.com",
+        "password": "12345",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T06:14:36.000Z",
+        "updatedAt": "2025-01-07T06:14:36.000Z"
+        },
+        {
+        "id": 19,
+        "email": "nico@gmail.com",
+        "password": "12345",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T06:14:40.000Z",
+        "updatedAt": "2025-01-07T06:14:40.000Z"
+        },
+        {
+        "id": 21,
+        "email": "nico@gmail.com",
+        "password": "12345",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T06:14:43.000Z",
+        "updatedAt": "2025-01-07T06:14:43.000Z"
+        },
+        {
+        "id": 24,
+        "email": "user1@gmail.com",
+        "password": "1234",
+        "name": "User 1",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T07:21:14.000Z",
+        "updatedAt": "2025-01-07T07:21:14.000Z"
+        },
+        {
+        "id": 25,
+        "email": "admin@gmail.com",
+        "password": "1234",
+        "name": "Admin 1",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T07:36:43.000Z",
+        "updatedAt": "2025-01-07T07:36:43.000Z"
+        },
+        {
+        "id": 26,
+        "email": "admin1@gmail.com",
+        "password": "1234",
+        "name": "Admin 1",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T07:38:26.000Z",
+        "updatedAt": "2025-01-07T07:38:26.000Z"
+        },
+        {
+        "id": 27,
+        "email": "admin2@gmail.com",
+        "password": "1234",
+        "name": "Admin 2",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T07:42:28.000Z",
+        "updatedAt": "2025-01-07T07:42:28.000Z"
+        },
+        {
+        "id": 28,
+        "email": "admin10@gmail.com",
+        "password": "1234",
+        "name": "Admin 10",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T07:44:48.000Z",
+        "updatedAt": "2025-01-07T07:44:48.000Z"
+        },
+        {
+        "id": 29,
+        "email": "wulan.sundari567@gmail.com",
+        "password": "123456",
+        "name": "Wulan Sundari",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T07:52:23.000Z",
+        "updatedAt": "2025-01-07T07:52:23.000Z"
+        },
+        {
+        "id": 30,
+        "email": "admin3@gmail.com",
+        "password": "1234",
+        "name": "Admin 3",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T08:06:53.000Z",
+        "updatedAt": "2025-01-07T08:06:53.000Z"
+        },
+        {
+        "id": 31,
+        "email": "admin4@gmail.com",
+        "password": "1234",
+        "name": "Admin 4",
+        "role": "admin",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T08:18:46.000Z",
+        "updatedAt": "2025-01-07T08:18:46.000Z"
+        },
+        {
+        "id": 32,
+        "email": "user10@gmail.com",
+        "password": "1234",
+        "name": "User 10",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2025-01-07T08:21:36.000Z",
+        "updatedAt": "2025-01-07T08:21:36.000Z"
+        },
+        {
+        "id": 33,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T08:34:53.000Z",
+        "updatedAt": "2025-01-07T08:34:53.000Z"
+        },
+        {
+        "id": 34,
+        "email": "nico@gmail.com",
+        "password": "12345",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/0b8f.jpg",
+        "creationAt": "2025-01-07T08:36:31.000Z",
+        "updatedAt": "2025-01-07T08:36:31.000Z"
+        },
+        {
+        "id": 35,
+        "email": "nico@gmail.com",
+        "password": "12345",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/0b8f.jpg",
+        "creationAt": "2025-01-07T08:38:13.000Z",
+        "updatedAt": "2025-01-07T08:38:13.000Z"
+        },
+        {
+        "id": 36,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T09:07:43.000Z",
+        "updatedAt": "2025-01-07T09:07:43.000Z"
+        },
+        {
+        "id": 37,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/f255.jpg",
+        "creationAt": "2025-01-07T09:11:34.000Z",
+        "updatedAt": "2025-01-07T09:11:34.000Z"
+        },
+        {
+        "id": 38,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/dee3.jpg",
+        "creationAt": "2025-01-07T09:13:40.000Z",
+        "updatedAt": "2025-01-07T09:13:40.000Z"
+        },
+        {
+        "id": 39,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/dee3.jpg",
+        "creationAt": "2025-01-07T09:13:59.000Z",
+        "updatedAt": "2025-01-07T09:13:59.000Z"
+        },
+        {
+        "id": 40,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/dee3.jpg",
+        "creationAt": "2025-01-07T09:15:44.000Z",
+        "updatedAt": "2025-01-07T09:15:44.000Z"
+        },
+        {
+        "id": 41,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/1f76.jpg",
+        "creationAt": "2025-01-07T09:18:01.000Z",
+        "updatedAt": "2025-01-07T09:18:01.000Z"
+        },
+        {
+        "id": 42,
+        "email": "nico@gmail.com",
+        "password": "12553",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.escuelajs.co/api/v1/files/578b.jpg",
+        "creationAt": "2025-01-07T09:26:25.000Z",
+        "updatedAt": "2025-01-07T09:26:25.000Z"
+        },
+        {
+        "id": 43,
+        "email": "nico@gmail.com",
+        "password": "1234",
+        "name": "Nicolas",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/movie?w=150&h=220",
+        "creationAt": "2025-01-07T09:27:12.000Z",
+        "updatedAt": "2025-01-07T09:27:12.000Z"
+        },
+        {
+        "id": 44,
+        "email": "fran@example.com",
+        "password": "1234",
+        "name": "D",
+        "role": "customer",
+        "avatar": "img.com",
+        "creationAt": "2025-01-07T09:30:46.000Z",
+        "updatedAt": "2025-01-07T09:30:46.000Z"
+        },
+        {
+        "id": 45,
+        "email": "siswoyosinarjaya@gmail.com",
+        "password": "dualima14051979",
+        "name": "siswoyo",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T09:59:40.000Z",
+        "updatedAt": "2025-01-07T09:59:40.000Z"
+        },
+        {
+        "id": 46,
+        "email": "myemye@mail.com",
+        "password": "myemyemye",
+        "name": "myemyemye",
+        "role": "customer",
+        "avatar": "https://placehold.co/150x220",
+        "creationAt": "2025-01-07T10:19:51.000Z",
+        "updatedAt": "2025-01-07T10:19:51.000Z"
+        },
+        {
+        "id": 47,
+        "email": "mhmdyasser@gmail.com",
+        "password": "1234",
+        "name": "jlj",
+        "role": "customer",
+        "avatar": "https://picsum.photos/800",
+        "creationAt": "2025-01-07T11:08:21.000Z",
+        "updatedAt": "2025-01-07T11:08:21.000Z"
+        },
+        {
+        "id": 48,
+        "email": "mo@gmail.com",
+        "password": "1234",
+        "name": "mo",
+        "role": "customer",
+        "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+        "creationAt": "2025-01-07T11:13:29.000Z",
+        "updatedAt": "2025-01-07T11:13:29.000Z"
+        },
+        {
+        "id": 49,
+        "email": "pablo@pablo.com",
+        "password": "pablo",
+        "name": "Pablo",
+        "role": "customer",
+        "avatar": "https://picsum.photos/800",
+        "creationAt": "2025-01-07T11:25:35.000Z",
+        "updatedAt": "2025-01-07T11:25:35.000Z"
+        }
+  ]
+}
