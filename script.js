@@ -97,7 +97,7 @@ async function checkUser(users) {
 
   // If no email matched after looping through all users
   console.log("email not found");
-  $(".form-popup").css("height", "300px");
+  $(".form-popup").css("height", "340px");
   $("#submitError").css({
     color: "red",
     fontSize: "0.8rem",
@@ -142,6 +142,55 @@ async function submitLoginfun(e) {
 const regexEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 const regexPass =
   /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
-const regexName=/^[a-zA-Z]+([ '-][a-zA-Z]+)*$/
+const regexName = /^[a-zA-Z]+([ '-][a-zA-Z]+)*$/;
 
+//handle shopping to display Products
 
+async function fetchProducts() {
+  try {
+    const response = await fetch("http://localhost:3000/products");
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error fetching data:", error);
+  }
+}
+
+async function filterProducts() {
+  let data = await fetchProducts();
+  let product = " ";
+  data.forEach((element) => {
+    product += `<div class="col-sm-6 col-lg-3">
+                       <div class="product-item bg-light p-4 shadow-on-hover my-3 ${
+                         element.category.name
+                       } card ">
+                      <img src="${element.image}" alt="">
+                      <div class="product-content-item">
+                        <div class="my-2">
+                          <span>Rated(5.4)</span>
+                          <span class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star-half-stroke"></i>
+                          </span>
+                          <h5 class="mt-1 mb-2"><a href="#">${element.title
+                            .toUpperCase()
+                            .slice(0, 13)}</a></h5>
+                          <p>${element.description.slice(0, 27)}</p>
+                           <div class="cart-style"><a href=""><i class="fa-solid fa-cart-shopping"></a></i></div>
+                        </div>
+                    </div>
+                    </div>
+                   
+                  </div>
+     
+                   
+    `;
+  });
+  document.getElementById("product-list").innerHTML = product;
+}

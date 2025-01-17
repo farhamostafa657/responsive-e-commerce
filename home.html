@@ -4,27 +4,32 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shopingo</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header class="header">
-      <nav class="nav-bar">
+      <nav class="nav-bar sticky-top">
         <a href="#" class="logo"> <span class="logo">Shopingo</span></a>
         <ul class="links">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Shoping</a></li>
-          <li><a href="#">Orders</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="#heroslider">Home</a></li>
+          <li><a href="#shoping">Shoping</a></li>
+          <li><a href="#features">Features</a></li>
+          <li><a href="#about-us">About Us</a></li>
+          <li><a href="#contact-us">Contact Us</a></li>
           <li>
-            <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+            <a href="#cart"><i class="fa-solid fa-cart-shopping"></i></a>
           </li>
         </ul>
 
         <button class="log-btn">Login</button>
-        <div id="add-user-nav" class="name-user">
-          
-        </div>
+        <div id="add-user-nav" class="name-user"></div>
       </nav>
     </header>
 
@@ -107,12 +112,244 @@
       </div>
     </div>
 
+    <!-- home-slider -->
+    <div id="heroslider" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item text-ceter bg-dark vh-100 active slide1">
+          <div
+            class="container d-flex h-100 align-items-center justify-content-center"
+          >
+            <div class="row justify-content-center text-center">
+              <div class="col-lg-8">
+                <h6 class="text-white">WELCOME TO SHOPINGO</h6>
+                <h1 class="display1 fw-bold text-white">
+                  Your One-Stop Shop for Everything You Need
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item text-ceter vh-100 active slide2">
+          <div
+            class="container d-flex h-100 align-items-center justify-content-center"
+          >
+            <div class="row justify-content-center text-center">
+              <div class="col-lg-8">
+                <h6 class="text-white">Exclusive Deals Await!</h6>
+                <h1 class="display1 fw-bold text-white">
+                  Up to 50% Off on Bestsellers
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item text-ceter vh-100 active slide3">
+          <div
+            class="container d-flex h-100 align-items-center justify-content-center"
+          >
+            <div class="row justify-content-center text-center">
+              <div class="col-lg-8">
+                <h6 class="text-white">Fresh Finds Just for You</h6>
+                <h1 class="display1 fw-bold fs-1 text-white">
+                  Discover the Latest Trends Today
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#heroslider"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#heroslider"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+    <!-- shopping -->
+    <section id="shoping" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 intro-text">
+            <h1>Find What You Love</h1>
+            <p>
+              Discover our wide range of products, from the latest trends to
+              everyday essentials. Shop quality, style, and affordability all in
+              one place—your next favorite find is waiting!
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button
+              class="nav-link active"
+              id="all-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#all-tab-pane"
+              type="button"
+              role="tab"
+              aria-controls="all-tab-pane"
+              aria-selected="true"
+              onclick="filterProducts()"
+            >
+              All
+            </button>
+          </li>
+
+          <li class="nav-item" role="presentation">
+            <button
+              class="nav-link "
+              id="trend-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#trend-tab-pane"
+              type="button"
+              role="tab"
+              aria-controls="trend-tab-pane"
+              aria-selected="true"
+            >
+            Clothes
+            </button>
+          </li>
+
+          <li class="nav-item" role="presentation">
+            <button
+              class="nav-link "
+              id="best-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#best-tab-pane"
+              type="button"
+              role="tab"
+              aria-controls="best-tab-pane"
+              aria-selected="true"
+            >
+            Shoes
+            </button>
+          </li>
+
+          <li class="nav-item" role="presentation">
+            <button
+              class="nav-link "
+              id="new-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#new-tab-pane"
+              type="button"
+              role="tab"
+              aria-controls="new-tab-pane"
+              aria-selected="true"
+            >
+            Electronics
+            </button>
+          </li>
+          
+          
+          
+         
+        </ul>
+        <div class="tab-content" id="myTabContent">
+                <div
+                  class="tab-pane fade show active"
+                  id="all-tab-pane"
+                  role="tabpanel"
+                  aria-labelledby="all-tab"
+                  tabindex="0"
+                >
+                <div id="product-list" class="row">
+                  
+                </div>
+
+                </div>
+
+                <div
+                class="tab-pane fade show "
+                id="trend-tab-pane"
+                role="tabpanel"
+                aria-labelledby="trend-tab"
+                tabindex="0"
+              >
+              <h4>Clothes</h4>
+              </div>
+
+              <div
+                class="tab-pane fade show "
+                id="best-tab-pane"
+                role="tabpanel"
+                aria-labelledby="best-tab"
+                tabindex="0"
+              >
+              <h4>Shoes</h4>
+              </div>
+
+              <div
+              class="tab-pane fade show "
+              id="new-tab-pane"
+              role="tabpanel"
+              aria-labelledby="new-tab"
+              tabindex="0"
+            >
+            <h4>Electronics</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- about us -->
+    <section id="about-us">
+      <div class="container">
+        <div class="row gy-4 align-items-center ">
+          <div class="col-lg-5 col-sm-4 me-sm-5">
+            <img src="img/person.jpg" alt="" />
+          </div>
+          <div class="col-lg-5 col-sm-8 me-sm-5">
+            <h1>About Us</h1>
+            <div class="divider my-4"></div>
+            <p>
+              Welcome to Shopingo, your one-stop destination for all your
+              shopping needs! We are dedicated to bringing you an unparalleled
+              shopping experience by offering a wide range of high-quality
+              products at competitive prices.
+            </p>
+            <h1>Join Us!</h1>
+            <div class="divider my-4"></div>
+            <p>
+              Be a part of the Shopingo family and experience the joy of
+              shopping with us. Whether you're looking for the latest gadgets,
+              stylish outfits, or must-have all essentials, we’ve got you
+              covered. Thank you for choosing Shopingo. Let’s make every
+              shopping moment memorable!
+            </p>
+            <a href="#shoping" class="btn btn-danger">Shopping</a>
+          </div>
+        </div>
+      </div>
+    </section>
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
     <script
       src="https://kit.fontawesome.com/3597cc1bad.js"
       crossorigin="anonymous"
     ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+
     <script src="script.js"></script>
   </body>
 </html>
