@@ -20,11 +20,12 @@
         <ul class="links">
           <li><a href="#heroslider">Home</a></li>
           <li><a href="#shoping">Shoping</a></li>
-          <li><a href="#features">Features</a></li>
           <li><a href="#about-us">About Us</a></li>
+          <li><a href="#features">Features</a></li>
           <li><a href="#contact-us">Contact Us</a></li>
-          <li>
-            <a href="#cart"><i class="fa-solid fa-cart-shopping"></i></a>
+          <li class="myCart">
+            <a href="#cart"><i  id="cartIcon" class="fa-solid fa-cart-shopping "></i></a>
+            <span class="addCart"></span>
           </li>
         </ul>
 
@@ -32,6 +33,39 @@
         <div id="add-user-nav" class="name-user"></div>
       </nav>
     </header>
+
+    <!-- cart-icon -->
+     <div id="cart-icon">
+       <div class="cart-for-close">
+        <h2 class="text-center mt-3">Your Cart</h2>
+          <div id="cartContent">
+
+          </div>
+        
+        <span >_______________________________________________</span>
+
+        <div class="total-price d-flex justify-content-end mt-2">
+          <span class="me-3">Total</span>
+          <span id="totalPriceCart" class="me-2">$0</span>
+        </div>
+        <div class="btn-buy d-flex justify-content-center mt-2">
+          <button class="px-4 rounded-3 py-1" id="btn-buy-card">Buy Now</button>
+        </div>
+
+        <i id="close-cart-id" class="fa-solid fa-xmark close-cart"></i>
+       </div>
+          
+        </div>
+
+
+      
+
+
+     </div>
+
+
+
+
 
     <div class="blurred-background"></div>
     <!-- login form -->
@@ -221,8 +255,9 @@
               role="tab"
               aria-controls="trend-tab-pane"
               aria-selected="true"
+              onclick="showClothes()"
             >
-            Clothes
+            Men's clothing
             </button>
           </li>
 
@@ -236,8 +271,9 @@
               role="tab"
               aria-controls="best-tab-pane"
               aria-selected="true"
+              onclick="womenLothing()"
             >
-            Shoes
+            Women's clothing
             </button>
           </li>
 
@@ -251,10 +287,26 @@
               role="tab"
               aria-controls="new-tab-pane"
               aria-selected="true"
+              onClick="jewellery()"
+            >
+            Jewelery
+            </button>
+          </li>
+          <!-- <li class="nav-item" role="presentation">
+            <button
+              class="nav-link "
+              id="new-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#new-tab-pane"
+              type="button"
+              role="tab"
+              aria-controls="new-tab-pane"
+              aria-selected="true"
+              onClick="electronics()"
             >
             Electronics
             </button>
-          </li>
+          </li> -->
           
           
           
@@ -281,7 +333,9 @@
                 aria-labelledby="trend-tab"
                 tabindex="0"
               >
-              <h4>Clothes</h4>
+              <div id="cloth-list" class="row">
+                  
+              </div>
               </div>
 
               <div
@@ -290,8 +344,10 @@
                 role="tabpanel"
                 aria-labelledby="best-tab"
                 tabindex="0"
-              >
-              <h4>Shoes</h4>
+                      >
+              <div id="women-list" class="row">
+                  
+              </div>
               </div>
 
               <div
@@ -301,8 +357,22 @@
               aria-labelledby="new-tab"
               tabindex="0"
             >
-            <h4>Electronics</h4>
+            <div id="our-jewelery" class="row">
+                  
             </div>
+            </div>
+            <div
+                  class="tab-pane fade show active"
+                  id="all-tab-pane"
+                  role="tabpanel"
+                  aria-labelledby="all-tab"
+                  tabindex="0"
+                >
+                <div id="our-electronics" class="row">
+                  
+                </div>
+
+                </div>
           </div>
         </div>
       </div>
@@ -338,6 +408,120 @@
         </div>
       </div>
     </section>
+
+
+    <!-- Features -->
+
+    <section id="features">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 intro-text">
+            <h1 class="text-white fs-1">Why Choose Us?</h1>
+            <p class="text-white-50">
+              Our eCommerce platform is designed to provide a seamless and enjoyable shopping experience. 
+              With lightning-fast delivery, you can receive your orders in as little as 24 hours. 
+              Shop with confidence, knowing we offer secure, end-to-end encrypted payments and a money-back guarantee to ensure your satisfaction.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Fast Delivery -->
+          <div class="col-lg-3 col-sm-6">
+            <div class="feature py-5 px-4 text-center">
+              <div class="feature-coin">
+                <i class="fa-solid fa-truck"></i>
+              </div>
+              <h4 class="mt-3">Fast Delivery</h4>
+              <p>
+                Experience fast delivery at its best! Get your orders quickly and reliably, straight to your doorstep. Your time matters to us!
+              </p>
+            </div>
+          </div>
+          
+          <!-- Secure Payment Options -->
+          <div class="col-lg-3 col-sm-6">
+            <div class="feature py-5 px-4 text-center">
+              <div class="feature-coin">
+                <i class="fa-solid fa-lock"></i>
+              </div>
+              <h4 class="mt-3">Secure Payment Options</h4>
+              <p>
+                Enjoy multiple secure payment gateways, including credit cards, PayPal, and more, with complete encryption for your safety.
+              </p>
+            </div>
+          </div>
+          
+          <!-- Create Accounts -->
+          <div class="col-lg-3 col-sm-6">
+            <div class="feature py-5 px-4 text-center">
+              <div class="feature-coin">
+                <i class="fa-solid fa-user"></i>
+              </div>
+              <h4 class="mt-3">Create Accounts</h4>
+              <p>
+                Easily create an account to track your orders, manage your wishlist, and enjoy a personalized shopping experience.
+              </p>
+            </div>
+          </div>
+    
+          <!-- Multiple Discounts -->
+          <div class="col-lg-3 col-sm-6">
+            <div class="feature py-5 px-4 text-center">
+              <div class="feature-coin">
+                <i class="fa-solid fa-tags"></i>
+              </div>
+              <h4 class="mt-3">Exclusive Discounts</h4>
+              <p>
+                Take advantage of exclusive discounts, seasonal sales, and special offers tailored just for you.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    <!-- contact-us -->
+    <section id="contact-us">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 intro-text text-center mb-4">
+            <h1>Contact Us</h1>
+            <p>
+              Got questions or need assistance? Contact us today! Our dedicated support team is here to help you with orders, 
+              returns, payments, or any inquiries. Reach us via email, phone, or live chat, and experience fast and friendly service.
+            </p>
+          </div>
+        </div>
+        <form action="#" class="row">
+          <div class="form-group col-md-6 col-lg-8 mx-auto">
+            <input type="text" class="form-control mb-3 p-2" placeholder="Full Name" required>
+            <input type="email" class="form-control mb-3 p-2" placeholder="Email Address" required>  
+            <input type="date" class="form-control mb-3 p-2" placeholder="Preferred Date">
+            <input type="tel" class="form-control mb-3 p-2" placeholder="Phone Number" required> 
+          </div>
+          <div class="form-group col-8 mx-auto d-flex align-items-center justify-content-center">
+            <textarea class="form-control mb-3 p-2 w-100 mx-auto" placeholder="Enter Your Message" rows="6" required></textarea>
+          </div>
+          <div class="col-12 text-center">
+            <button type="submit" class="btn btn-outline-dark w-25">Send Message</button>
+          </div>
+        </form>
+      </div>
+    </section>
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
     <script
